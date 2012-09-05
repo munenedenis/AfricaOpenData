@@ -1,0 +1,13 @@
+/*
+Stylesheet to overide cKan at AfricaOpenData.org
+
+Organization: Open Institute
+Organization URI: http://openinstitute.com
+
+Author: David Lemayian
+Author URI: http://davidlemayian.com
+*/
+
+.hero {
+	background: url("../img/mapback.png") repeat-x center center;
+}
